@@ -1,2 +1,2 @@
 # winsoft_technologies
-Submission of Assignment
+Submission of Assignments
